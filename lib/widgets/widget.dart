@@ -1,0 +1,10 @@
+// Dialgos
+export 'package:flutter_api_1/widgets/dialogs/eliminarproducto_dialog_widget.dart';
+export 'package:flutter_api_1/widgets/dialogs/eliminarproveedor_dialog_wiget.dart';
+export 'package:flutter_api_1/widgets/dialogs/eliminarcategoria_dialog_widget.dart';
+export 'package:flutter_api_1/widgets/dialogs/editarproducto_dialog_widget.dart';
+export 'package:flutter_api_1/widgets/dialogs/editarproveedores_dialog_widget.dart';
+export 'package:flutter_api_1/widgets/dialogs/editarcategoria_dialog_widget.dart';
+// Cards
+export 'package:flutter_api_1/widgets/cards_productos_widget.dart';
+export 'package:flutter_api_1/widgets/cards_categorias_widget.dart';
